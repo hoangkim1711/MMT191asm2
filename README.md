@@ -1,4 +1,4 @@
-# MMT191asm2
+# MMT191asm2-H6-IoT
 
 Mạng máy tính 191 - Bài tập lớn 02
 
