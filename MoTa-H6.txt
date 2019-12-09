@@ -1,0 +1,88 @@
+		Tầng 1:
+4 camera
+________________________________
+
+- 7 phòng Thường Lớn
+	6 sensor nhiệt độ
+	6 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Máy tính	
+
+- 6 phòng Thường Nhỏ
+	3 sensor nhiệt độ
+	3 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Máy tính	
+
+
+- 1 phòng đặt Sever
+	1 Server
+	3 sensor nhiệt độ
+	3 sensor ánh sáng
+	1 Điều khiển máy lạnh
+	1 Điều khiển đèn
+
+___________________________________
+		Tầng 2 - tầng 5:
+___________________________________
+- 8 phòng Thường Lớn
+	6 sensor nhiệt độ
+	6 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Máy tính	
+
+- 6 phòng Thường Nhỏ
+	3 sensor nhiệt độ
+	3 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Máy tính	
+___________________________________
+		Tầng 6:
+___________________________________
+- 6 phòng Thường nhỏ
+	3 sensor nhiệt độ
+	3 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Máy tính	
+
+- 6 phòng Lab lớn 
+	6 sensor nhiệt độ
+	6 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Điều khiển máy lạnh
+	12 Máy tính + 1 máy tính (giảng viên)
+	Switch
+
+- 1 phòng hội trường
+	18 sensor nhiệt độ
+	18 sensor ánh sáng
+	4 điểu khiển đèn
+	4 điều khiển máy lạnh
+	5 máy tính
+	1 Switch
+
+___________________________________
+		Tầng 7: (tầng 7 - tầng 8)
+___________________________________
+
+- 4 phòng Thường nhỏ
+	3 sensor nhiệt độ
+	3 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Máy tính	
+
+- 6 phòng Lab lớn 
+	6 sensor nhiệt độ
+	6 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Điều khiển máy lạnh
+	12 Máy tính + 1 máy tính (giảng viên)
+	1 Switch
+
+- 1 phòng hành chính - Main
+	6 sensor nhiệt độ
+	6 sensor ánh sáng
+	1 Điều khiển đèn
+	1 Điều khiển máy lạnh
+	10 Máy tính	
+	1 Switch
